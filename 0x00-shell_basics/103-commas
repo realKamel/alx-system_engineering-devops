@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -am | sort -k1n,1n -k1
