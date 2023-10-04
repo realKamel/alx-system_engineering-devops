@@ -1,2 +1,2 @@
 #!/bin/bash
-cut --fields=5  /etc/passwd|sort
+cut --fields=45  /etc/passwd|sort
