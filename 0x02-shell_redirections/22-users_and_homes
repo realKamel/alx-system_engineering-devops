@@ -1,0 +1,2 @@
+#!/bin/bash
+cut --fields=5  /etc/passwd
