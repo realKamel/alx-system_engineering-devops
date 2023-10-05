@@ -1,2 +1,2 @@
 #!/bin/bash
-set -l BASH = 'School'
+BASH='School'
